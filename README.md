@@ -54,27 +54,9 @@ I enjoy breaking down complex problems, identifying inefficiencies, and building
 
 ---
 
-## Featured Projects
-
-### Datacom R&D Project — Accessibility Testing Automation
-Developing an automated web accessibility testing system using Python, FastAPI, Playwright, and Axe-core to improve reporting consistency and workflow reliability.
-
-### LG AIMERS Hackathon Finalist
-Analysed manufacturing datasets and developed predictive modelling workflows to identify defect patterns and support operational improvement initiatives.
-
-### FitFuel — React Native Fitness Application
-Developed mobile application features within an Agile development environment using React Native and GitHub workflows.
-
-### Easy Plus — Accessibility Media Platform
-Developed an AI-assisted accessibility-focused media platform to improve digital accessibility and user interaction experiences.
-
----
-
 ## Connect With Me
 
 - 📧 Email: soyeon.im.work@gmail.com
-- 🌐 Portfolio: https://soyeon.lovable.app
-- 💼 LinkedIn: https://www.linkedin.com/in/soyeon-im/
 - 💻 GitHub: https://github.com/SoyeonIm
 
 ---
