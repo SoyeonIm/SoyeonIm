@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Soyeon Im 👋
 
 ### Computer & Information Sciences Student  
@@ -85,4 +84,3 @@ Developed an AI-assisted accessibility-focused media platform to improve digital
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SoyeonIm&show_icons=true&locale=en&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoyeonIm&show_icons=true&locale=en)
-```
