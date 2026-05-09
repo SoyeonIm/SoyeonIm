@@ -1,16 +1,8 @@
 ```markdown
-<h1 align="center">Hi, I'm Soyeon Im 👋</h1>
+# Hi, I'm Soyeon Im 👋
 
-<h3 align="center">
-Computer & Information Sciences Student | Data Science & Software Development
-</h3>
-
-<p align="center">
-  <a href="mailto:soyeon.im.work@gmail.com">Email</a> •
-  <a href="https://soyeon.lovable.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/soyeon-im/">LinkedIn</a> •
-  <a href="https://github.com/SoyeonIm">GitHub</a>
-</p>
+### Computer & Information Sciences Student  
+**Data Science & Software Development @ AUT, New Zealand**
 
 ---
 
@@ -18,15 +10,15 @@ Computer & Information Sciences Student | Data Science & Software Development
 
 I am a final-year Computer and Information Sciences student at Auckland University of Technology, double majoring in **Data Science** and **Software Development**.
 
-My interests sit at the intersection of:
+I enjoy solving real-world problems through:
 
-- Data-driven problem solving  
-- AI-enabled automation  
-- Software development  
-- Operational workflow improvement  
-- Accessibility-focused digital solutions  
+- Data-driven problem solving
+- AI-enabled automation
+- Software development
+- Operational workflow improvement
+- Accessibility-focused digital solutions
 
-I enjoy breaking down complex problems, identifying inefficiencies, and building practical technical solutions that improve how systems, users, and teams work.
+I enjoy breaking down complex problems, identifying inefficiencies, and building practical technical solutions that improve systems, workflows, and user experiences.
 
 ---
 
@@ -53,52 +45,44 @@ I enjoy breaking down complex problems, identifying inefficiencies, and building
 - FastAPI
 - Playwright
 - Azure DevOps
-- Automation Workflows
-- CI/CD-style Workflows
+- Workflow Automation
 
 ### Collaboration
 - Agile Development
-- Cross-functional Communication
 - Stakeholder Communication
+- Cross-functional Collaboration
 - Problem Solving
 
 ---
 
-## Featured Experience & Projects
+## Featured Projects
 
 ### Datacom R&D Project — Accessibility Testing Automation
-Developing an automated web accessibility testing system using **Python, FastAPI, Playwright, and Axe-core** to improve reporting consistency, workflow reliability, and accessibility issue analysis.
+Developing an automated web accessibility testing system using Python, FastAPI, Playwright, and Axe-core to improve reporting consistency and workflow reliability.
 
 ### LG AIMERS Hackathon Finalist
-Worked with real-world manufacturing datasets to analyse defect patterns, build predictive modelling workflows, and generate operational insights for process improvement.
+Analysed manufacturing datasets and developed predictive modelling workflows to identify defect patterns and support operational improvement initiatives.
 
 ### FitFuel — React Native Fitness Application
-Developed mobile app features using **React Native** within an Agile team environment, focusing on usability, feature testing, and GitHub collaboration.
+Developed mobile application features within an Agile development environment using React Native and GitHub workflows.
 
-### Easy Plus — Accessibility-Focused Media Platform
-Contributed to an AI-assisted media platform designed to improve digital accessibility and user interaction experiences for visually impaired users.
+### Easy Plus — Accessibility Media Platform
+Developed an AI-assisted accessibility-focused media platform to improve digital accessibility and user interaction experiences.
 
 ---
 
-## Current Focus
+## Connect With Me
 
-I am currently building stronger experience in:
-
-- AI-assisted development
-- Data analysis and reporting
-- Workflow automation
-- Software engineering practices
-- Business and operational problem solving
+- 📧 Email: soyeon.im.work@gmail.com
+- 🌐 Portfolio: https://soyeon.lovable.app
+- 💼 LinkedIn: https://www.linkedin.com/in/soyeon-im/
+- 💻 GitHub: https://github.com/SoyeonIm
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoyeonIm&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SoyeonIm&show_icons=true&locale=en&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoyeonIm&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoyeonIm&show_icons=true&locale=en)
 ```
