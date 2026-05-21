@@ -63,5 +63,6 @@ I enjoy breaking down complex problems, identifying inefficiencies, and building
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SoyeonIm&show_icons=true&locale=en&layout=compact&cache_seconds=86400)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoyeonIm&show_icons=true&locale=en&cache_seconds=86400)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SoyeonIm&layout=compact)](https://github.com/SoyeonIm)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoyeonIm&show_icons=true)](https://github.com/SoyeonIm)
