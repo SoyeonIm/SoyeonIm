@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Soyeon+Im+%F0%9F%91%8B;Data+Science+%7C+Software+Dev;Building+solutions+with+data+%26+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Soyeon+Im+%F0%9F%91%8B;Data+Science+%7C+Software+Dev;Building+solutions+with+data+%26+code;Aspiring+Data+Analyst+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 ### 🎓 Computer & Information Sciences Student
 **Data Science & Software Development @ AUT, New Zealand**
@@ -29,6 +29,19 @@ I enjoy solving real-world problems through:
 - ♿ Accessibility-focused digital solutions
 
 I enjoy breaking down complex problems, identifying inefficiencies, and building practical technical solutions that improve systems, workflows, and user experiences.
+
+---
+
+## 🎯 Currently
+
+```text
+🎓  Final year @ AUT — graduating soon!
+💼  Actively seeking Data Analyst roles
+📊  Deepening skills in data visualization & storytelling
+🌏  Open to opportunities in New Zealand & beyond
+```
+
+> 💬 *"Turning raw data into meaningful insights — one query at a time."*
 
 ---
 
@@ -65,15 +78,12 @@ I enjoy breaking down complex problems, identifying inefficiencies, and building
 
 ---
 
-## 📈 GitHub Stats
+## 📬 Connect With Me
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SoyeonIm&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/SoyeonIm)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SoyeonIm&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/SoyeonIm)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoyeonIm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/SoyeonIm)
+[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soyeon.im.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoyeonIm)
 
 </div>
 
@@ -81,7 +91,7 @@ I enjoy breaking down complex problems, identifying inefficiencies, and building
 
 <div align="center">
 
-*✨ Thanks for visiting my profile!*
+*✨ Thanks for visiting! Feel free to reach out — always happy to connect 😊*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SoyeonIm&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
